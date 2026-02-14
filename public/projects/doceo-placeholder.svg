@@ -1,0 +1,24 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#grad)"/>
+  <rect x="110" y="95" width="1060" height="530" rx="24" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <circle cx="190" cy="145" r="11" fill="#93C5FD"/>
+  <circle cx="226" cy="145" r="11" fill="#60A5FA"/>
+  <circle cx="262" cy="145" r="11" fill="#2563EB"/>
+  <rect x="175" y="215" width="420" height="22" rx="11" fill="#1E293B"/>
+  <rect x="175" y="260" width="350" height="16" rx="8" fill="#64748B"/>
+  <rect x="175" y="292" width="300" height="16" rx="8" fill="#94A3B8"/>
+  <rect x="690" y="220" width="400" height="260" rx="18" fill="#EFF6FF" stroke="#BFDBFE"/>
+  <path d="M760 340C790 300 850 300 880 340C910 380 970 380 1000 340" stroke="#2563EB" stroke-width="9" stroke-linecap="round"/>
+  <text x="175" y="370" fill="#0F172A" font-family="IBM Plex Sans, sans-serif" font-size="36" font-weight="700">
+    Doceo
+  </text>
+  <text x="175" y="414" fill="#475569" font-family="IBM Plex Sans, sans-serif" font-size="24" font-weight="500">
+    AI STEM tutoring platform preview
+  </text>
+</svg>

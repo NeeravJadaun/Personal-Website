@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="130" x2="1060" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#64748B" stop-opacity="0.14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="95" y="75" width="1010" height="480" rx="30" fill="white"/>
+  <rect x="95" y="75" width="1010" height="480" rx="30" stroke="#CBD5E1"/>
+  <rect x="95" y="75" width="1010" height="480" rx="30" fill="url(#accent)"/>
+  <text x="160" y="255" fill="#0F172A" font-family="Space Grotesk, sans-serif" font-size="68" font-weight="700">
+    Neerav Jadaun
+  </text>
+  <text x="160" y="325" fill="#334155" font-family="IBM Plex Sans, sans-serif" font-size="34" font-weight="500">
+    Mathematics Student · University of Waterloo
+  </text>
+  <text x="160" y="392" fill="#475569" font-family="IBM Plex Sans, sans-serif" font-size="26" font-weight="400">
+    Software · Fintech · Data-Driven Systems
+  </text>
+</svg>
