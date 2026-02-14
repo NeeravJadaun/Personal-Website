@@ -1,19 +1,19 @@
 # Neerav Jadaun Portfolio
 
-Personal portfolio site built with Next.js 14, TypeScript, Tailwind CSS, Framer Motion, and shadcn/ui.
+Personal portfolio website.
 
-## Run locally
+## Local Development
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`.
+## Edit Content
 
-## Edit content
+Update portfolio content and links in `src/lib/data.ts`.
 
-Main content and links are in `src/lib/data.ts`.
+## Deployment
 
 Update before publishing:
 - `formspreeEndpoint`
