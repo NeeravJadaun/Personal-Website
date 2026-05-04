@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07090F"/>
+  <circle cx="600" cy="-20" r="420" fill="#00C2FF" fill-opacity=".08"/>
+  <g opacity=".11">
+    <path d="M0 120H1200M0 240H1200M0 360H1200M0 480H1200" stroke="#EDF2FF"/>
+    <path d="M240 0V630M480 0V630M720 0V630M960 0V630" stroke="#EDF2FF"/>
+  </g>
+  <rect x="96" y="96" width="1008" height="438" rx="28" fill="#101624" stroke="rgba(255,255,255,.1)"/>
+  <text x="144" y="184" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" letter-spacing="4" fill="#00E87A">UNIVERSITY OF WATERLOO · MATHEMATICS</text>
+  <text x="144" y="292" font-family="Bricolage Grotesque, sans-serif" font-size="74" font-weight="800" fill="#EDF2FF">Neerav Jadaun</text>
+  <text x="144" y="360" font-family="Plus Jakarta Sans, sans-serif" font-size="32" font-weight="600" fill="#91A0BF">Fintech · SWE · Quantitative Finance</text>
+  <text x="144" y="448" font-family="JetBrains Mono, monospace" font-size="24" font-weight="700" fill="#00C2FF">OPEN TO INTERNSHIPS — 2026</text>
+  <path d="M760 420 820 352l52 34 92-128 78 70" stroke="#00C2FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="820" cy="352" r="10" fill="#00E87A"/>
+  <circle cx="964" cy="258" r="10" fill="#00E87A"/>
+</svg>
