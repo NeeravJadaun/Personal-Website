@@ -1,13 +1,13 @@
 <svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="560" fill="#07090F"/>
-  <rect x="70" y="70" width="760" height="420" rx="28" fill="#101624" stroke="rgba(255,255,255,.1)"/>
-  <rect x="112" y="120" width="184" height="120" rx="20" fill="#182134"/>
-  <rect x="336" y="120" width="184" height="120" rx="20" fill="#182134"/>
-  <rect x="560" y="120" width="184" height="120" rx="20" fill="#182134"/>
-  <text x="148" y="172" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#00E87A">OAuth</text>
-  <text x="372" y="172" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#00C2FF">API</text>
-  <text x="596" y="172" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#00E87A">Trends</text>
-  <path d="M132 398h610" stroke="#91A0BF" stroke-width="2"/>
-  <path d="M144 370c72-78 112-24 170-80 64-62 96-22 142 20 72 66 126-114 208-46 34 28 48 54 80 20" stroke="#00C2FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="664" cy="264" r="10" fill="#00E87A"/>
+  <rect width="900" height="560" fill="#111827"/>
+  <rect x="70" y="70" width="760" height="420" rx="28" fill="#1B2540" stroke="rgba(255,255,255,.1)"/>
+  <rect x="112" y="120" width="184" height="120" rx="20" fill="#243257"/>
+  <rect x="336" y="120" width="184" height="120" rx="20" fill="#243257"/>
+  <rect x="560" y="120" width="184" height="120" rx="20" fill="#243257"/>
+  <text x="148" y="172" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#D7FF4F">OAuth</text>
+  <text x="372" y="172" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#49D6FF">API</text>
+  <text x="596" y="172" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#D7FF4F">Trends</text>
+  <path d="M132 398h610" stroke="#CAD7FF" stroke-width="2"/>
+  <path d="M144 370c72-78 112-24 170-80 64-62 96-22 142 20 72 66 126-114 208-46 34 28 48 54 80 20" stroke="#49D6FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="664" cy="264" r="10" fill="#D7FF4F"/>
 </svg>

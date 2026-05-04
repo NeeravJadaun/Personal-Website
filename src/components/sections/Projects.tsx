@@ -21,7 +21,7 @@ export default function Projects() {
         <div className="mt-7 grid gap-5 md:grid-cols-2">
           {projects.map((project, index) => (
             <Reveal key={project.name}>
-              <Card className="group h-full overflow-hidden transition-all duration-200 hover:-translate-y-1 hover:border-[rgba(0,194,255,0.35)] hover:shadow-2xl">
+              <Card className="group h-full overflow-hidden transition-all duration-200 hover:-translate-y-1 hover:border-[rgba(255,107,74,0.5)] hover:shadow-2xl">
                 <div className="relative aspect-[16/10] overflow-hidden bg-slate-950">
                   <div className="pointer-events-none absolute inset-x-0 top-0 z-10 h-px bg-gradient-to-r from-transparent via-[var(--primary)] to-transparent opacity-60" />
                   <Image src={project.image} alt={project.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-[1.03]" />

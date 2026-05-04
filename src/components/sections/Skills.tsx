@@ -13,7 +13,7 @@ export default function Skills() {
           <p className="section-kicker">Skills</p>
           <div className="flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
             <h2 className="section-title">Technical stack.</h2>
-            <div className="hidden h-16 w-48 rounded-2xl border border-white/10 bg-[linear-gradient(135deg,rgba(0,194,255,0.12),rgba(0,232,122,0.04))] sm:block" />
+            <div className="hidden h-16 w-48 rounded-2xl border border-white/10 bg-[linear-gradient(135deg,rgba(255,107,74,0.22),rgba(73,214,255,0.16),rgba(215,255,79,0.12))] sm:block" />
           </div>
         </Reveal>
         <div className="mt-7 grid gap-4 sm:grid-cols-2">

@@ -19,14 +19,14 @@ export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-white/10 bg-[#07090f]/82 backdrop-blur-xl">
+    <header className="sticky top-0 z-50 border-b border-white/12 bg-[#1d2738]/86 backdrop-blur-xl">
       <nav className="container-page flex h-16 items-center justify-between gap-4" aria-label="Primary">
         <a href="#home" className="font-mono text-sm font-bold tracking-[0.18em] text-[var(--primary)]">
           NJ
         </a>
         <div className="hidden items-center gap-6 md:flex">
           {nav.map(([label, href]) => (
-            <a key={href} href={href} className="text-sm font-semibold text-slate-400 transition-colors hover:text-white">
+            <a key={href} href={href} className="text-sm font-semibold text-slate-300 transition-colors hover:text-white">
               {label}
             </a>
           ))}
@@ -41,7 +41,7 @@ export default function Navbar() {
         </Button>
       </nav>
       {open ? (
-        <div className="container-page grid gap-2 border-t border-white/10 bg-[#07090f] py-4 md:hidden">
+        <div className="container-page grid gap-2 border-t border-white/10 bg-[#1d2738] py-4 md:hidden">
           {nav.map(([label, href]) => (
             <a key={href} href={href} onClick={() => setOpen(false)} className="rounded-xl px-3 py-3 text-base font-semibold text-slate-300 hover:bg-white/5 hover:text-white">
               {label}
